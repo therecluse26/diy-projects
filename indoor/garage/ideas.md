@@ -47,7 +47,7 @@ Garage Door
 
 Garage exit door
 -----------------
-- Simply replace or repair the current one. Security risk.
+- Simply replace or repair the current one.
 
 
 Bugs
